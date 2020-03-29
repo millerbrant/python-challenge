@@ -1,0 +1,11 @@
+Observations:
+
+The data skews heavily towards the low end of the age scale, the age quartiles from the dataset are
+extremely narrow.
+
+The vast majority of players are male.
+
+The game doesn't seem to have a group of super-users, max purchase count is 5 and min would naturally be 1.
+
+
+
